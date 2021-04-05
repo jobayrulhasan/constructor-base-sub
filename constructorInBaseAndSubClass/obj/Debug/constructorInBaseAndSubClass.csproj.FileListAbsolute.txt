@@ -1,0 +1,7 @@
+D:\Practices\constructorInBaseAndSubClass\bin\Debug\constructorInBaseAndSubClass.exe.config
+D:\Practices\constructorInBaseAndSubClass\bin\Debug\constructorInBaseAndSubClass.exe
+D:\Practices\constructorInBaseAndSubClass\bin\Debug\constructorInBaseAndSubClass.pdb
+D:\Practices\constructorInBaseAndSubClass\obj\Debug\constructorInBaseAndSubClass.csprojAssemblyReference.cache
+D:\Practices\constructorInBaseAndSubClass\obj\Debug\constructorInBaseAndSubClass.csproj.CoreCompileInputs.cache
+D:\Practices\constructorInBaseAndSubClass\obj\Debug\constructorInBaseAndSubClass.exe
+D:\Practices\constructorInBaseAndSubClass\obj\Debug\constructorInBaseAndSubClass.pdb
